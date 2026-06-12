@@ -1,0 +1,28 @@
+h1 {
+    color:blueviolet
+}
+
+#primeiro-para{
+  color:aqua;
+  background-color: rgb(84, 84, 66);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+}
+
+#segundo-para{
+    color:rgb(0, 0, 0);
+    background-color: rgb(1, 209, 185);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+}
+
+#terceiro-para{
+    color:blueviolet;
+    background-color: beige;
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+.paragraf {
+    text-align: justify;
+}
